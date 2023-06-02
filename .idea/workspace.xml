@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="756f748e-8946-4636-80b9-a55fbc061946" name="Changes" comment="Serialization JAVA">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/utils/Serializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/AppliTestBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/AppliTestBO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Ligne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Ligne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Panier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Panier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Ramette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Ramette.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Stylo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/Stylo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/TestSerial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/steve/papeterie/bo/TestSerial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685696209138</updated>
-      <workItem from="1685696210431" duration="2360000" />
+      <workItem from="1685696210431" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="Serialization JAVA">
       <created>1685701640404</created>
@@ -135,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685701640404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Serialization JAVA">
+      <created>1685702307451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685702307451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
